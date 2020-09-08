@@ -184,13 +184,11 @@ button:focus,
 
 .navigation-list__item:hover {
   text-decoration: underline;
-  text-decoration-thickness: inherit;
   opacity: 1;
 }
 
 .navigation-list__item--active {
   text-decoration: underline;
-  text-decoration-thickness: inherit;
   opacity: 1;
 }
 
