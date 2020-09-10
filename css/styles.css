@@ -304,4 +304,8 @@ animation-timing-function: linear;
   h2 {
     font-size: 20px;
   }
+  .navigation-list li {
+    display: flex;
+    flex-direction: column;
+  }
 }
