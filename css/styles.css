@@ -308,4 +308,11 @@ animation-timing-function: linear;
     display: flex;
     flex-direction: column;
   }
+  .profile__portrait {
+    float: none;
+    margin: 10px auto;
+  }
+  .profile {
+    text-align: center;
+  }  
 }
